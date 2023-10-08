@@ -1,2 +1,2 @@
 # git-test
-Testing git
+This is a repository for trying out the basic git workflow.
